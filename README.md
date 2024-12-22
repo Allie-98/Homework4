@@ -12,7 +12,7 @@ To launch Gazebo and spawn the robot write the following command in a terminal:
 
     $ ros2 launch rl_fra2mo_description gazebo_fra2mo.launch.py
 
-To explore the goals as requested in the point 2, in a second terminal write the following command:
+To explore the goals as requested in the points 2 and 3, in a second terminal write the following command:
 
     $ ros2 launch rl_fra2mo_description fra2mo_explore.launch.py
 
