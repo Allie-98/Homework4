@@ -12,6 +12,8 @@ To launch Gazebo and spawn the robot write the following command in a terminal:
 
     $ ros2 launch rl_fra2mo_description gazebo_fra2mo.launch.py
 
+After doing this, remember to press the play button on Gazebo.
+
 To explore the goals as requested in the points 2 and 3, in a second terminal write the following command:
 
     $ ros2 launch rl_fra2mo_description fra2mo_explore.launch.py
@@ -27,3 +29,5 @@ In a third terminal write:
 If you want to monitor the robot's movement in RViz, particularly the mapping with the specific configuration required by the task, you can use the following command:
 
     $ ros2 launch rl_fra2mo_description display_fra2mo.launch.py
+
+# Note: Depending on the part of the homework you want to test, select the corresponding number from the terminal.
