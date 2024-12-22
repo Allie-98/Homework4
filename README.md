@@ -30,4 +30,4 @@ If you want to monitor the robot's movement in RViz, particularly the mapping wi
 
     $ ros2 launch rl_fra2mo_description display_fra2mo.launch.py
 
-# Note: Depending on the part of the homework you want to test, select the corresponding number from the terminal.
+# Note: Depending on the point of the homework you want to test, select the corresponding number from the terminal.
