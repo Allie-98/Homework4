@@ -41,3 +41,5 @@ To see the real image, select the /videocamera topic, to see the image with the 
 You can check the behaviour of the robot by visiting the following link:
 
 https://youtu.be/g0aNKmdAj38?si=w9UMfGCH_CoLTM0G
+
+The videos have been sped up to allow for faster and easier review.
