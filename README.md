@@ -31,3 +31,7 @@ If you want to monitor the robot's movement in RViz, particularly the mapping wi
     $ ros2 launch rl_fra2mo_description display_fra2mo.launch.py
 
 # Note: Depending on the point of the homework you want to test, select the corresponding number from the terminal.
+
+If you want to view the image captured by the camera, execute the following command in another terminal:
+
+     $ ros2 run rqt_image_view rqt_image_view
